@@ -1,1 +1,2 @@
-# repository to store all python projects
+# py
+repository to store all python projects
